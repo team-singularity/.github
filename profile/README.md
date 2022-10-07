@@ -4,13 +4,13 @@ Project made on [NASA Space Apps Challenge Prague 2022](https://2022.spaceappsch
 
 Our team was called Singularity.
 
-## Demo
-[Click here](http://app.solarwindcars.eu/)
-
 ## Description
 
 Welcome to Solar Wind Cars! Wanna settle a bet? Play by picking two dates and watch the race unfold.
 If you want to know more about the Parker Solar Probe and our Sun and it’s corona, take a look at our learning section!
+
+## Demo
+[Click here](http://app.solarwindcars.eu/)
 
 ## What we created
 

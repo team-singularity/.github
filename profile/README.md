@@ -13,7 +13,7 @@ If you want to know more about the Parker Solar Probe and our Sun and it’s cor
 
 * [Racing car game](https://github.com/team-singularity/solar-wind-cars-unity)
 * [Website with education content](https://github.com/team-singularity/solar-wind-cars-FE)
-* [Backend that parses data from Parek Solar Probe](https://github.com/team-singularity/solar-wind-cars-be)
+* [Backend that parses data from Parker Solar Probe](https://github.com/team-singularity/solar-wind-cars-be)
 
 ## Technology
  * Unity

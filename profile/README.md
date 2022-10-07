@@ -1,4 +1,15 @@
-## Hi there 👋
+# Solar Wind Cars
+
+Project made on [NASA Space Apps Challenge Prague 2022](https://2022.spaceappschallenge.org/) hackathon. The challenge was to display creatively  data form Parker Solar Probe.
+
+Our team was called Singularity
+
+## What we created
+
+* Unity racing car game
+* Website with education content
+* Backend that parses data from Parek Solar Probe
+
 
 <!--
 

@@ -55,6 +55,12 @@ sequenceDiagram
     deactivate Unity Game   
 ```
 
+## Thanks to
+* Car - https://sketchfab.com/3d-models/concept-car-038-public-domain-0b4ca2a15ba7478db2a42ac9f0e687bf (Unity Fan youtube channel)
+* Satelite - https://sketchfab.com/3d-models/simple-satellite-low-poly-free-f23b484cda664f1cb91b4f62ea5ef8bf (DjalalxJay)
+* SpaceSkies - https://assetstore.unity.com/packages/2d/textures-materials/sky/spaceskies-free-80503 (PULSAR BYTES)
+* Space Background - https://codepen.io/ksenia-k/pen/gOPboQg (Ksenia Kondrashova)
+
 <!--
 
 **Here are some ideas to get you started:**

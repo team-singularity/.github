@@ -20,9 +20,10 @@ sequenceDiagram
     Backend->>Solar Probe Data: get sensor data
     Solar Probe Data->>Backend: return sensor data
     Backend->>Backend: parse data
-    deactivate Backend
     Backend->>Unity Game: return parsed data
+    deactivate Backend
     Unity Game->>Unity Game: load data
+    Unity Game->>Unity Game: start race
     deactivate Unity Game   
 ```
 

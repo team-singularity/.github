@@ -4,6 +4,11 @@ Project made on [NASA Space Apps Challenge Prague 2022](https://2022.spaceappsch
 
 Our team was called Singularity
 
+## Description
+
+Welcome to Solar Wind Cars! Wanna settle a bet? Play by picking two dates and watch the race unfold.
+If you want to know more about the Parker Solar Probe and our Sun and it’s corona, take a look at our learning section!
+
 ## What we created
 
 * [Racing car game](https://github.com/team-singularity/solar-wind-cars-unity)
@@ -15,12 +20,19 @@ Our team was called Singularity
  * HTML/CSS/JS
  * Java BE with Spring Boot
 
+## Repositories
+* [solar-wind-cars-unity](https://github.com/team-singularity/solar-wind-cars-unity)
+* [solar-wind-cars-fe](https://github.com/team-singularity/solar-wind-cars-fe)
+* [solar-wind-cars-be](https://github.com/team-singularity/solar-wind-cars-be)
+
 ## Team
 👨[karmik66](https://github.com/karmik66)
 
 👩[gabriela-l](https://github.com/gabriela-l)
 
 👨[martinbacon](https://github.com/martinbacon)
+
+## Architecture
 
 ```mermaid
 sequenceDiagram

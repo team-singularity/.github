@@ -16,11 +16,11 @@ Our team was called Singularity
  * Java BE with Spring Boot
 
 ## Team
-👨@karmik66
+👨[karmik66](https://github.com/karmik66)
 
-👩@gabriela-l
+👩[gabriela-l](https://github.com/gabriela-l)
 
-👨@martinbacon
+👨[martinbacon](https://github.com/martinbacon)
 
 ```mermaid
 sequenceDiagram

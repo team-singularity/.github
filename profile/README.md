@@ -44,7 +44,9 @@ sequenceDiagram
     activate Unity Game
     activate Backend
     Backend->>Solar Probe Data: get sensor data
+    activate Solar Probe Data
     Solar Probe Data->>Backend: return sensor data
+    deactivate Solar Probe Data
     Backend->>Backend: parse data
     Backend->>Unity Game: return parsed data
     deactivate Backend

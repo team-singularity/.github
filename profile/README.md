@@ -1,6 +1,6 @@
 # Solar Wind Cars
 
-<img src="./img/title.jpg" alt="Solar Wind Cars Background">
+<img src="https://raw.githubusercontent.com/team-singularity/.github/main/profile/img/title.jpg" alt="Solar Wind Cars Background">
 
 Project made in [NASA Space Apps Challenge Prague 2022](https://2022.spaceappschallenge.org/) hackathon. The challenge was to display creatively  data form Parker Solar Probe.
 

@@ -14,6 +14,8 @@ If you want to know more about the Parker Solar Probe and our Sun and it’s cor
 ## Demo
 [Click here](http://app.solarwindcars.eu/)
 
+<img src="https://raw.githubusercontent.com/team-singularity/.github/main/profile/img/solar-wind-cars.jpg" align="right" alt="Solar Wind Cars Background" width="400">
+
 ## What we created
 
 * [Racing car game](https://github.com/team-singularity/solar-wind-cars-unity)

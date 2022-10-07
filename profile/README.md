@@ -6,10 +6,21 @@ Our team was called Singularity
 
 ## What we created
 
-* Unity racing car game
-* Website with education content
-* Backend that parses data from Parek Solar Probe
+* [Racing car game](https://github.com/team-singularity/solar-wind-cars-unity)
+* [Website with education content](https://github.com/team-singularity/solar-wind-cars-FE)
+* [Backend that parses data from Parek Solar Probe](https://github.com/team-singularity/solar-wind-cars-be)
 
+## Technology
+ * Unity
+ * HTML/CSS/JS
+ * Java BE with Spring Boot
+
+## Team
+👨@karmik66
+
+👩@gabriela-l
+
+👨@martinbacon
 
 ```mermaid
 sequenceDiagram

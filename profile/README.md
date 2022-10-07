@@ -11,6 +11,21 @@ Our team was called Singularity
 * Backend that parses data from Parek Solar Probe
 
 
+```mermaid
+sequenceDiagram
+    Website->>Unity Game: load Unity IFrame
+    Unity Game->>Backend: GET /data
+    activate Unity Game
+    activate Backend
+    Backend->>Solar Probe Data: get sensor data
+    Solar Probe Data->>Backend: return sensor data
+    Backend->>Backend: parse data
+    deactivate Backend
+    Backend->>Unity Game: return parsed data
+    Unity Game->>Unity Game: load data
+    deactivate Unity Game   
+```
+
 <!--
 
 **Here are some ideas to get you started:**

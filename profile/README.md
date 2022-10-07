@@ -11,10 +11,10 @@ Our team was called Singularity.
 Welcome to Solar Wind Cars! Wanna settle a bet? Play by picking two dates and watch the race unfold.
 If you want to know more about the Parker Solar Probe and our Sun and it’s corona, take a look at our learning section!
 
-<img src="https://raw.githubusercontent.com/team-singularity/.github/main/profile/img/solar-wind-cars.jpg" align="right" alt="Solar Wind Cars Background" width="400">
-
 ## Demo
 [Click here](http://app.solarwindcars.eu/)
+
+<img src="https://raw.githubusercontent.com/team-singularity/.github/main/profile/img/solar-wind-cars.jpg" align="right" alt="Solar Wind Cars Background" width="400">
 
 ## What we created
 

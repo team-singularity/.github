@@ -12,7 +12,7 @@ Welcome to Solar Wind Cars! Wanna settle a bet? Play by picking two dates and wa
 If you want to know more about the Parker Solar Probe and our Sun and it’s corona, take a look at our learning section!
 
 ## Demo
-[Click here](http://app.solarwindcars.eu/)
+[Click here](http://solarwindcars.eu/)
 
 <img src="https://raw.githubusercontent.com/team-singularity/.github/main/profile/img/solar-wind-cars.jpg" align="right" alt="Solar Wind Cars Background" width="400">
 

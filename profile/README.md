@@ -5,3 +5,4 @@
 We attended these hackathons:
 
 * [NASA Space Apps Challenge Prague 2022](https://github.com/team-singularity/solar-wind-cars)
+* AimtecHackathon 2023
